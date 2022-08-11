@@ -1,9 +1,9 @@
-# Desafio Hospital Israelita Albert Einstein
+<h2 align="center"> :hospital: Desafio Hospital Israelita Albert Einstein </h2>
 
-### Teste Analista de Dados <br>
+#### :bar_chart: Teste Analista de Dados <br>
 Este é um pequeno teste para verificar a compreensão básica de analise de dados
 desenvolvido pelo HIAE.<br>
-#### Instruções
+#### :clipboard: Instruções
 
 1. Utilize os dados públicos da pesquisa PNAD COVID19 de 2020 com o período mínimo
 de análise de 3 meses. Escolha no máximo 15 questões para sua análise.
@@ -14,6 +14,5 @@ de análise de 3 meses. Escolha no máximo 15 questões para sua análise.
 6. Compile em uma apresentação, imagine que os resultados serão apresentados para
 um público não técnico, por isso tente enfatizar os resultados do seu trabalho.
 7. Envie os códigos SQL comentados, PDF dos Dashboards e apresentação final.<br>
-Links<br>
 
- [Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19](https://www.ibge.gov.br/estatisticas/sociais/saude/27947-divulgacao-mensal-pnadcovid2.html?edicao=28351&t=downloadsArquivos)
+ :link: [Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19](https://www.ibge.gov.br/estatisticas/sociais/saude/27947-divulgacao-mensal-pnadcovid2.html?edicao=28351&t=downloadsArquivos)
