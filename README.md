@@ -1,9 +1,17 @@
-<h2 align="center"> :hospital: Desafio Hospital Israelita Albert Einstein </h2>
+<h2 align="center"> :hospital: Desafio Hospital Israelita Albert Einstein </h2> 
 
-#### :bar_chart: Teste Analista de Dados <br>
-Este é um pequeno teste para verificar a compreensão básica de analise de dados
-desenvolvido pelo HIAE.<br>
-#### :clipboard: Instruções
+
+<img src= "https://user-images.githubusercontent.com/99887454/184239247-ae0b4b3a-e000-4747-9e5c-143255803843.png" width="100" height="40"> </a>  </a>  <img src= "https://user-images.githubusercontent.com/99887454/184241015-ec4f69c1-0a60-4059-8881-e541824130ac.jpg" width="100" height="40">
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
+<h3 align="center">:bar_chart: Teste Analista de Dados </h3> 
+
+<h4 align="center"> Este é um pequeno teste para verificar a compreensão básica de analise de dados
+desenvolvido pelo HIAE.</h4> <br>
+
+### :clipboard: Instruções
 
 1. Utilize os dados públicos da pesquisa PNAD COVID19 de 2020 com o período mínimo
 de análise de 3 meses. Escolha no máximo 15 questões para sua análise.
